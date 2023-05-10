@@ -2,7 +2,7 @@ THEMES.XML
 
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Ex_12_Quiz_Oracle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Quiz_App" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
