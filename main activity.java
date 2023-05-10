@@ -1,6 +1,6 @@
 MAIN ACTIVITY
 
-package com.example.ex_12_quiz_oracle;
+package com.example.quiz_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
